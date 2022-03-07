@@ -1,0 +1,2 @@
+#!/bin/bash
+echo <file_input> | tr Ac Ze
